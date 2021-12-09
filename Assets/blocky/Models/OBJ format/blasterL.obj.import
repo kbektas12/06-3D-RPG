@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blasterL.obj-2e4ae09ae2439ea644023045f2e595e3.mesh"
+
+[deps]
+
+files=[ "res://.import/blasterL.obj-2e4ae09ae2439ea644023045f2e595e3.mesh" ]
+
+source_file="res://Assets/blocky/Models/OBJ format/blasterL.obj"
+dest_files=[ "res://.import/blasterL.obj-2e4ae09ae2439ea644023045f2e595e3.mesh", "res://.import/blasterL.obj-2e4ae09ae2439ea644023045f2e595e3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

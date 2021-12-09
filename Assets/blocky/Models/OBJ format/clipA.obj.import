@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/clipA.obj-110d4a3100cb4fac65d49827009adad1.mesh"
+
+[deps]
+
+files=[ "res://.import/clipA.obj-110d4a3100cb4fac65d49827009adad1.mesh" ]
+
+source_file="res://Assets/blocky/Models/OBJ format/clipA.obj"
+dest_files=[ "res://.import/clipA.obj-110d4a3100cb4fac65d49827009adad1.mesh", "res://.import/clipA.obj-110d4a3100cb4fac65d49827009adad1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
