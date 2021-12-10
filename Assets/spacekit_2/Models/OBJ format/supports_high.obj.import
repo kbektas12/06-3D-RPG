@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/supports_high.obj-c06daaf10e22231b1fd8f2275bf94a0c.mesh"
+
+[deps]
+
+files=[ "res://.import/supports_high.obj-c06daaf10e22231b1fd8f2275bf94a0c.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/supports_high.obj"
+dest_files=[ "res://.import/supports_high.obj-c06daaf10e22231b1fd8f2275bf94a0c.mesh", "res://.import/supports_high.obj-c06daaf10e22231b1fd8f2275bf94a0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

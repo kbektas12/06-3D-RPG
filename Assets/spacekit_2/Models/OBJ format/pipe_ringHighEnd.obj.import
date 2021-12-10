@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_ringHighEnd.obj-9753440f3bfdb3e1e7fec5a924d8c1ee.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_ringHighEnd.obj-9753440f3bfdb3e1e7fec5a924d8c1ee.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/pipe_ringHighEnd.obj"
+dest_files=[ "res://.import/pipe_ringHighEnd.obj-9753440f3bfdb3e1e7fec5a924d8c1ee.mesh", "res://.import/pipe_ringHighEnd.obj-9753440f3bfdb3e1e7fec5a924d8c1ee.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

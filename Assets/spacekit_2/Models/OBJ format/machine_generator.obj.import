@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/machine_generator.obj-40b259d865c45de10a62a194e24b126b.mesh"
+
+[deps]
+
+files=[ "res://.import/machine_generator.obj-40b259d865c45de10a62a194e24b126b.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/machine_generator.obj"
+dest_files=[ "res://.import/machine_generator.obj-40b259d865c45de10a62a194e24b126b.mesh", "res://.import/machine_generator.obj-40b259d865c45de10a62a194e24b126b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

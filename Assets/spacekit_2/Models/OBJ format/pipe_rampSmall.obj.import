@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_rampSmall.obj-0f0c5cd5f04e5ad2b9d03742d40e650e.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_rampSmall.obj-0f0c5cd5f04e5ad2b9d03742d40e650e.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/pipe_rampSmall.obj"
+dest_files=[ "res://.import/pipe_rampSmall.obj-0f0c5cd5f04e5ad2b9d03742d40e650e.mesh", "res://.import/pipe_rampSmall.obj-0f0c5cd5f04e5ad2b9d03742d40e650e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

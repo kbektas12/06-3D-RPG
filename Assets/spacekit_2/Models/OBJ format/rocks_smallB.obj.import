@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocks_smallB.obj-68ee39296406820c904bd469d46daf84.mesh"
+
+[deps]
+
+files=[ "res://.import/rocks_smallB.obj-68ee39296406820c904bd469d46daf84.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/rocks_smallB.obj"
+dest_files=[ "res://.import/rocks_smallB.obj-68ee39296406820c904bd469d46daf84.mesh", "res://.import/rocks_smallB.obj-68ee39296406820c904bd469d46daf84.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

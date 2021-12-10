@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/astronautB.obj-8deb64f8a1c3ebd37279916d44ea3190.mesh"
+
+[deps]
+
+files=[ "res://.import/astronautB.obj-8deb64f8a1c3ebd37279916d44ea3190.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/astronautB.obj"
+dest_files=[ "res://.import/astronautB.obj-8deb64f8a1c3ebd37279916d44ea3190.mesh", "res://.import/astronautB.obj-8deb64f8a1c3ebd37279916d44ea3190.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

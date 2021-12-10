@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/terrain_sideCornerInner.obj-3de0759c07a74255f4fbf3d3ef5ffcdb.mesh"
+
+[deps]
+
+files=[ "res://.import/terrain_sideCornerInner.obj-3de0759c07a74255f4fbf3d3ef5ffcdb.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/terrain_sideCornerInner.obj"
+dest_files=[ "res://.import/terrain_sideCornerInner.obj-3de0759c07a74255f4fbf3d3ef5ffcdb.mesh", "res://.import/terrain_sideCornerInner.obj-3de0759c07a74255f4fbf3d3ef5ffcdb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

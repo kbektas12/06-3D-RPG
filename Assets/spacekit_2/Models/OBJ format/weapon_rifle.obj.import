@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/weapon_rifle.obj-eb7104d8cdd631a6d6373d823172cadf.mesh"
+
+[deps]
+
+files=[ "res://.import/weapon_rifle.obj-eb7104d8cdd631a6d6373d823172cadf.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/weapon_rifle.obj"
+dest_files=[ "res://.import/weapon_rifle.obj-eb7104d8cdd631a6d6373d823172cadf.mesh", "res://.import/weapon_rifle.obj-eb7104d8cdd631a6d6373d823172cadf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

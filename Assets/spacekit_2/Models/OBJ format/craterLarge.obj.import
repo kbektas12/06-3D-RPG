@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/craterLarge.obj-46ae7573fb5fa6d912e77bd5b791d413.mesh"
+
+[deps]
+
+files=[ "res://.import/craterLarge.obj-46ae7573fb5fa6d912e77bd5b791d413.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/craterLarge.obj"
+dest_files=[ "res://.import/craterLarge.obj-46ae7573fb5fa6d912e77bd5b791d413.mesh", "res://.import/craterLarge.obj-46ae7573fb5fa6d912e77bd5b791d413.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

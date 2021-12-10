@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corridor.obj-ac8020483825f334f4b632e637744d51.mesh"
+
+[deps]
+
+files=[ "res://.import/corridor.obj-ac8020483825f334f4b632e637744d51.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/corridor.obj"
+dest_files=[ "res://.import/corridor.obj-ac8020483825f334f4b632e637744d51.mesh", "res://.import/corridor.obj-ac8020483825f334f4b632e637744d51.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

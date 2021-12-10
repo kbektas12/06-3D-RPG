@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_cornerDiagonal.obj-033f61b6158884554742f27eb99d0d7a.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_cornerDiagonal.obj-033f61b6158884554742f27eb99d0d7a.mesh" ]
+
+source_file="res://Assets/spacekit_2/Models/OBJ format/pipe_cornerDiagonal.obj"
+dest_files=[ "res://.import/pipe_cornerDiagonal.obj-033f61b6158884554742f27eb99d0d7a.mesh", "res://.import/pipe_cornerDiagonal.obj-033f61b6158884554742f27eb99d0d7a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
