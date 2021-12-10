@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=2]
+[gd_scene load_steps=14 format=2]
 
 [ext_resource path="res://Player/Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Player/Player.gd" type="Script" id=2]
@@ -9,6 +9,7 @@
 [ext_resource path="res://NPC/NPC.tscn" type="PackedScene" id=7]
 [ext_resource path="res://UI/Dialogue.gd" type="Script" id=8]
 [ext_resource path="res://UI/UI.gd" type="Script" id=9]
+[ext_resource path="res://Drone/Drone.tscn" type="PackedScene" id=10]
 
 [sub_resource type="SpatialMaterial" id=1]
 albedo_color = Color( 1, 0, 0, 1 )
@@ -30,8 +31,8 @@ radius = 7.25902
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
 transform = Transform( -0.876349, 0, -0.481677, 0, 1, 0, 0.481677, 0, -0.876349, 46.0008, 0, 20.78 )
-collision_layer = 3
-collision_mask = 3
+collision_layer = 2
+collision_mask = 7
 script = ExtResource( 2 )
 
 [node name="Pivot" type="Position3D" parent="Player"]
@@ -43,6 +44,7 @@ transform = Transform( -1, 1.51808e-08, -8.60946e-08, 0, 0.984808, 0.173648, 8.7
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 0 )
 enabled = true
 cast_to = Vector3( 0, 0, 100 )
+collision_mask = 5
 script = ExtResource( 5 )
 
 [node name="Reticule" type="Position3D" parent="Player/Pivot/RayCast"]
@@ -72,6 +74,11 @@ transform = Transform( 0.753747, 0, -0.657165, 0, 1, 0, 0.657165, 0, 0.753747, -
 [node name="Target5" parent="Target_container" instance=ExtResource( 4 )]
 transform = Transform( -0.691954, 0, -0.721941, 0, 1, 0, 0.721941, 0, -0.691954, 25.7451, 4.24591, -42.561 )
 
+[node name="Drone_container" type="Spatial" parent="."]
+
+[node name="Drone" parent="Drone_container" instance=ExtResource( 10 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 20, 100 )
+
 [node name="NPC" parent="." instance=ExtResource( 7 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 44.2486, 0, 0 )
 script = ExtResource( 6 )
@@ -85,6 +92,14 @@ shape = SubResource( 3 )
 
 [node name="UI" type="CanvasLayer" parent="."]
 script = ExtResource( 9 )
+
+[node name="Damage" type="ColorRect" parent="UI"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 1, 0, 0, 0 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Background" type="ColorRect" parent="UI"]
 anchor_right = 1.0
